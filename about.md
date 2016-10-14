@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# Introductions #
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I hate these things and I never know what to say. I'm not going to try and be clever or tell you that I've got it all under control - it's more like "holy eff I think I have a handle on this for the next few (days | minutes | seconds)".
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I started dropcase.com in May of 2003, thinking that I wanted to learn how to do some Web development and maybe start another site or two once I was up and running. That didn't happen - although I learned a lot about managing the backend of a site and PHP and MySQL and other stuff along with my day job.
+
+Now I do Application Support and manage a team supporting and working with  groups in the US, Sweden, Belgium, and Japan.
